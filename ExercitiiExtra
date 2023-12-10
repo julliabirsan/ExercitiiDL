@@ -1,0 +1,21 @@
+1.	Sa se citeasca un numar de la tastatura. Daca este cuprins intre 1 si 7, sa se afiseze numele corespondent zilei din saptamana(1-Luni … 7-Duminica). Daca este introdus un numar diferit, sa se afiseze mesajul “ERROR”.
+2.	Sa se calculeze suma numerelor cuprinse in intervalul [0,100].
+3.	Sa se afiseze descrescator numerele curpinse in intervalul [0,50].
+4.	Sa se citeasca de la tastatura un numar. Daca este cuprins intre 0 si 9, sa se afiseze mesajul “Ai afisat numarul x”. Altfel, sa se afiseze mesajul “Numarul nu este permis”
+5.	Sa se citeasca un numar de la tastatura. Daca este cuprins intre 0 si 3 sa se afiseze “DA”, daca este cuprins intre 4 si 6 sa se afiseze  “NU”. Altfel, se va afisa mesajul “numarul nu este acceptat”
+6.	Sa se citeasca un nr de la tastatura. Cat timp nr este < 10, sa se adune numarul cu 2 si sa se printeze suma finala.
+7.	Sa se citeasca 2 nr de la tastatura. Sa se faca adunarea numerelor din interval, cat timp primul numar este mai mic ca al doilea. Primul numar se va incrementa cu 1.
+8.	Sa se citeasca 2 nr de la tastatura. Sa se faca adunarea numerelor din interval. Daca suma este mai mica ca si 20, sa se afiseze “MIC”, daca este mai mare, sa se afiseze “MARE”
+9.	Sa se faca adunarea numerelor citite de la tastatura, cat timp numarul citit este diferit de 0.
+10.	Scrieți un program care să calculeze și să afișeze cel mai mare divizor comun al două numere(numerele se pot citi de la tastatura0
+11.	Scrieți un program care să verifice dacă un an dat este bisect sau nu.
+12.	Realizați un joc simplu în care utilizatorul trebuie să răspundă la întrebări cu adevărat sau fals(diferite intrebari pe care le puteti stabili voi). Pentru fiecare raspuns corect, jucatorul primeste 10 puncte, iar pt fiecare raspuns gresit, trebuie sa i se scada 5 puncte. La final, trebuie sa ii afisam jucatorului rezultatul: punctajul total + cate intrebari au fost corecte, si cate gresite.
+13.	Realizați un joc simplu de Piatra, Foarfeca, Hartie între utilizator și computer(computer inseamna folositea lui Random: Random random = new Random(); int alegereCalculator = random.nextInt(3) + 1;)
+14.	Scrieți un program care să verifice dacă un număr este palindrom sau nu.
+15.	Scrieți un program care să calculeze suma și produsul cifrelor unui număr dat.
+16.	Scrieți un program care să genereze primele 'n' numere din seria Fibonacci.
+17.	Scrieți un program care afișează tabelul de înmulțire de la 1 la 10 pentru un număr dat de utilizator.
+18.	Scrieți un program care calculează suma numerelor pare de la 1 la un număr dat de utilizator.
+19.	Scrieți un program care inversează un număr dat de utilizator.
+20.	Scrieți un program care convertește temperatura între grade Celsius și grade Fahrenheit, în funcție de opțiunea utilizatorului.
+
