@@ -1,0 +1,11 @@
+1.	Creează o clasă MathUtil cu metode statice pentru a efectua operații matematice precum calculul sumei(dar si scadere, inmultire, impartire) a doua numere, verificarea unui număr par etc.
+2.	Creează o clasă Employee pentru a reprezenta angajații unei companii. Această clasă ar trebui să aibă atribute precum name (nume), salary (salariu) și department (departament). Implementează metode pentru a seta și a obține aceste detalii.
+3.	Creează o clasă Student care să conțină informații despre un student, cum ar fi numele, vârsta și nota la un test.
+4.	Creează o clasă Date pentru a reprezenta data (ziua, luna, anul). Adaugă metode pentru a seta și a obține fiecare parte a datei și pentru a afișa data formatată.
+
+Moștenire:
+1.	Creeze o clasă Shape (Formă geometrică) cu o metodă calculateArea() pentru a calcula aria formei.
+Extinde această clasă în alte clase cum ar fi Circle (Cerc) și Rectangle (Dreptunghi) care să implementeze metoda calculateArea() în funcție de specificul fiecărei forme.
+2.	Exercițiu: Creează o clasă Vehicle cu atribute și metode specifice vehiculelor. Extinde această clasă în alte clase cum ar fi Car și Motorcycle, adăugând caracteristici și comportamente specifice fiecărui tip de vehicul.
+3.	Creează o ierarhie de clase pentru animale. Ai o clasă de bază Animal și clase derivate precum Dog, Cat și Bird, fiecare cu propriile metode și comportamente specifice.
+
